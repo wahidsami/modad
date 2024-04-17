@@ -1072,6 +1072,9 @@ a {
   padding-bottom: 7rem;
   background-image: url("../../../assets/images/home-healthcare.jpg");
 }
+.cid-sFzxmVl7J6 .row {
+  flex-direction: row-reverse;
+}
 @media (max-width: 991px) {
   .cid-sFzxmVl7J6 .image-wrapper {
     margin-bottom: 2rem;
@@ -1098,6 +1101,13 @@ a {
 }
 .cid-sFzxmVl7J6 .mbr-section-title {
   text-align: right;
+}
+.cid-sFzxmVl7J6 .mbr-text,
+.cid-sFzxmVl7J6 .mbr-section-btn P {
+  text-align: center;
+}
+.cid-sFzxmVl7J6 P {
+  text-align: center;
 }
 .cid-tTjnWGnbTp {
   padding-top: 6rem;
